@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sherryQfeng
-- 👀 I’m interested in Causal Machine Learning, Offline Reinforcement Learning and Productionization of ML Models in E-commerce
-- 🌱 I’m currently learning Deep Reinforcement Learning
-- 💞️ I’m looking to collaborate on Market Design in E-commerce
+- 👀 I’m interested in Economic applications in E-commerce
 - 📫 How to reach me qian.fengqf@gmail.com
 
 <!---
