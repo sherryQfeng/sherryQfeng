@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sherryQfeng
-- 👀 I’m interested in Economic applications in E-commerce
 - 📫 How to reach me qian.fengqf@gmail.com
 
 <!---
