@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sherryQfeng
-- 📫 How to reach me qian.fengqf@gmail.com
+- 📫 How to reach me sherry.qian.feng@gmail.com
 
 <!---
 sherryQfeng/sherryQfeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
